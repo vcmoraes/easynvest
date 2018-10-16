@@ -1,6 +1,14 @@
 ![Easynvest](https://otesourodireto.com/wp-content/uploads/2017/03/Easynvest-tesouro-direto-confiavel-seguro-boa.png)
 
-# Teste Mobile
+# Frameworks
+
+* Kotlin
+* Mockito
+* Espresso
+* LiveData & ViewModel
+* Data Binding
+* Retrofit 2
+* ConstraintLayout
 
 # Entendendo o Projeto
 
