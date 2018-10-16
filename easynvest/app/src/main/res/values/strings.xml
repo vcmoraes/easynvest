@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Easynvest</string>
+    <string name="title_investiment">Quando você gostaria de aplicar?*</string>
+    <string name="currency">R$</string>
+    <string name="title_date_investiment">Qual a data de vencimento do investimento?*</string>
+    <string name="day_month_year">dia/mês/ano</string>
+    <string name="title_percent_investment">Qual o percentual do CDI do investimento?*</string>
+    <string name="percent">%</string>
+    <string name="simulate">Simular</string>
+    <string name="title_activity_simulate">@string/app_name</string>
+    <string name="simulating">Simulando…</string>
+    <string name="result_simulation">Resultado da simulação</string>
+    <string name="retry_simulate">Simular novamente</string>
+    <string name="gross_amount_profit">Rendimento total de %s</string>
+</resources>
