@@ -38,8 +38,6 @@ Esse projeto utiliza o conceito MVP (Model View Presenter) com **UseCases**, ou 
 
 * ModelRequest - Model que representa o conjunto de dados para uma requisição
 
-![Scheme](images/print8.png)
-
 * ModelResponse - Model que representa a resposta de uma requisição
 
 ![Scheme](images/print9.png)
