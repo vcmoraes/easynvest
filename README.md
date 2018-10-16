@@ -10,7 +10,7 @@ Esse projeto utiliza o conceito MVP (Model View Presenter) com **UseCases**, ou 
 
 **APP**
 
-* Tela - **View** responsável por mostrar informações ao usuário, como **Activity, Fragment, Dialog e etc**. 
+* Tela - **Ui** responsável por mostrar informações ao usuário, como **Activity, Fragment, Dialog e etc**. 
 
 ![Scheme](images/print2.png)
 
